@@ -85,6 +85,7 @@
   /* Links */
   a {
     color: orange; /* Color naranja */
-    text-decoration: underline; /* Subrayado */
+    text-decoration: none; /* Restablecer subrayado predeterminado */
+    text-decoration: underline; /* Subrayado personalizado */
   }
   
